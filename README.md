@@ -5,6 +5,10 @@ No need to install apriltags library, all in this ros package.
 Support ROS kinetic.
 
 
+# Usage
+Put all these three directories into a `catkin_ws/src` directory. 
+And then use `catkin_make` to build this package.
+
 
 # Reference
 - [personalrobotics/apriltags](https://github.com/personalrobotics/apriltags)
