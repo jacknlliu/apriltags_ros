@@ -6,8 +6,12 @@ Support ROS kinetic.
 
 
 # Usage
-Put all these three directories into a `catkin_ws/src` directory. 
+Put all these three directories into a `catkin_ws/src` directory.
 And then use `catkin_make` to build this package.
+
+
+# Resources
+Pre-generated tag families can be found in [AprilTag official website](https://april.eecs.umich.edu/software/apriltag.html).
 
 
 # Reference
